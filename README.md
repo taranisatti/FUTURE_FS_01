@@ -67,7 +67,7 @@ npm run build
 
 ## 🌐 Deployment
 
-This project is deployed using Netlify/Vercel for live hosting.
+This project is deployed using Netlify for live hosting.
 
 ## 👩‍💻 Developer
 
